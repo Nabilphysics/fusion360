@@ -16,8 +16,9 @@ Creating a Ice Cube Tray.
 8. Shell > Select all 4 sides and bottom(2mm)
 9. Fillet to 4 corners(10mm)
 10. Construct > Midplane and select two sides
-11. Skect for Sweep and complete sweep
-12. Add Fillet 4 Edge Lines(1mm)
+11. Use Sketch > Coincednet
+12. Skect for Sweep and complete sweep
+13. Add Fillet 4 Edge Lines(1mm)
 
 ## Video Timestamps
 00:00 - Day 5 Model an Ice Cube Tray in Autodesk Fusion 360</br>
