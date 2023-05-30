@@ -10,6 +10,9 @@ Creating a Paperclip
 2. Use Sweep Feature
 3. Creating Tangent Arc
 4. Turning sketches into construction lines
+5. Draw a circle to form paperclip body material(0.75mm) in Sweep Profile sketch
+6. From Solid Menu > Sweep select profile and path. Also check Chain Selection in checkbox. Distance 1 means 100%
+
 
 
 ## Video Timestamps
