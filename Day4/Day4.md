@@ -16,8 +16,9 @@ Creating a Loft Bottle
 8. Intersect Sketch Geometry
 9. Mirror command to make the bottle sketch
 10. Loft Command to make the bottle shape
-11. Final Fillets 
-12. 
+11. Shell
+12. Final Fillets 
+13. Thread
 
 ## Video Timestamps
 00:00 - Day 4 Model a Complex Glass Whiskey Bottle in Fusion 360 </br>
