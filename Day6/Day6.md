@@ -15,7 +15,8 @@ Creating a Hex Nut
 7. Draw a Triangle(1.5mm) and use equal constrain
 8. Use Revolve. Select Triangle as profile and Z axis as axis
 9. Add Hole by selecting hole command and place is in the hex nut center(Hole Settings> Extents:All, Hole Type:Counter Sink,Hole Tap Type:Tapped, Drill Point: Flat, Counter Sink:14mm, Thread Type: GB Metric Profile, Size: 12mm,Designation: M12*1, Check Modeled)
-10. 
+10. Construct Midplane to All 2 faces 
+11. Edit the thread type to offset and set to 8.5mm and complete the project.
 
 ## Video Timestamps
 00:00 - Day 6 Model a Hex Nut in Autodesk Fusion 360</br>
