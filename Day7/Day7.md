@@ -6,7 +6,12 @@ YouTube Link: https://youtu.be/Mv54UfwYYos?list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8Z
 Creating a Bike Handle
 
 ## Learing Target & Steps:
-1. 
+1. Create a circle with a Radius 30mm
+2. Extrude to 125mm
+3. Press s in keyboard and type Text option or Select from menu
+4. Enter your desired text and Constrain it using Coincident constrain and Horizontal Constrain. 
+5. Select Emboss Tool from Solid > Emboss . Select Sketch Profiles and Faces.
+6. 
 
 ## Video Timestamps
 00:00 - Day 7 3D Model a Bike Handlebar Grip in Autodesk Fusion 360
