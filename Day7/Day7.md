@@ -10,8 +10,16 @@ Creating a Bike Handle
 2. Extrude to 125mm
 3. Press s in keyboard and type Text option or Select from menu
 4. Enter your desired text and Constrain it using Coincident constrain and Horizontal Constrain. 
-5. Select Emboss Tool from Solid > Emboss . Select Sketch Profiles and Faces.
-6. 
+5. Select Emboss Tool from Solid > Emboss . Select Sketch Profiles and Faces. Depth 1mm
+6. Create New Sketch in Cylinder and Type p to project
+7. Draw a offset (1.5mm)
+8. Draw 2 lines connecting the circle
+9. Extrude and select the option as new body
+10. Select Rectangular Pattern Shape(Settings As video 5.56 min)
+11. Sweep (Video Time 6.33)
+12. Shell Command by going back to previous
+13. Use Combine command to combine lots of bodies together
+14. Select appearance and do it according to video timeline 8:14
 
 ## Video Timestamps
 00:00 - Day 7 3D Model a Bike Handlebar Grip in Autodesk Fusion 360
