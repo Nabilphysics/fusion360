@@ -1,12 +1,17 @@
 # Day 8
 ### Video
 YouTube Link: https://youtu.be/o5rcAv7xVUo?list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr
-
 ## Task:
 Creating a Rubber Doorstep
 
 ## Learing Target & Steps:
-1. 
+1. Create side profile
+2. Extrude
+3. Chamfer(15mm, 25 Degree, Distance and Angle)
+4. Fillet
+5. Draw sketch on bottom(use constrain, centerline, mirror)
+6. Edit, Shell, Fillet
+7. 
 
 ## Video Timestamps
 00:00 - Day 8 3D Model a Rubber Doorstop in Autodesk Fusion 360</br>
