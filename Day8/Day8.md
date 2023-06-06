@@ -11,7 +11,8 @@ Creating a Rubber Doorstep
 4. Fillet
 5. Draw sketch on bottom(use constrain, centerline, mirror)
 6. Edit, Shell, Fillet
-7. 
+7. Emboss tool
+8. Add Grip using Rectangular pattern
 
 ## Video Timestamps
 00:00 - Day 8 3D Model a Rubber Doorstop in Autodesk Fusion 360</br>
